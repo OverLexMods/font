@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'GothamPro Light Italic';
+    src: url('https://raw.githubusercontent.com/OverLexMods/font/refs/heads/main/GothamPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GothamPro Bold';
+    src: url('https://raw.githubusercontent.com/OverLexMods/font/refs/heads/main/GothamPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro Black';
+    src: url('https://raw.githubusercontent.com/OverLexMods/font/refs/heads/main/GothamPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro Black Italic';
+    src: url('https://raw.githubusercontent.com/OverLexMods/font/refs/heads/main/GothamPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
